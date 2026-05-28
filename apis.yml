@@ -1,0 +1,32 @@
+aid: json2video
+name: JSON2Video
+description: "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
+url: https://json2video.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: JSON2Video
+    description: "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
+    humanURL: https://json2video.com
+    baseURL: https://json2video.com
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://json2video.com
+common:
+  - type: Website
+    url: https://json2video.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
