@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://json2video.com
 common:
+  - type: DomainSecurity
+    url: security/json2video-domain-security.yml
   - type: Website
     url: https://json2video.com
   - type: PublicAPIsListing
