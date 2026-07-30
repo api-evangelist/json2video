@@ -1,4 +1,16 @@
 aid: json2video
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/json2video.png
 name: JSON2Video
 description: "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
 url: https://json2video.com
