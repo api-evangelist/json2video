@@ -39,7 +39,6 @@ apis:
   - name: JSON2Video
     description: "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
     humanURL: https://json2video.com
-    baseURL: https://json2video.com
     tags:
       - Video
     properties:
